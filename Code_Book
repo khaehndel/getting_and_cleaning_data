@@ -23,7 +23,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-# The Data Cleaning operations were conducted to get the the following variables:
+# The Data Cleaning operations were conducted to condense the the following variables:
 
 # 1. The Mean -mean()
 # 2. The Standard Deviation -std()
