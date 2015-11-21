@@ -5,8 +5,26 @@
 
 # The Data Selection is the following:
 
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
 # The Data Cleaning operations were conducted to get the the following variables:
 
-# 1. The Mean 
-# 2. The Standard Deviation 
+# 1. The Mean -mean()
+# 2. The Standard Deviation -std()
 
