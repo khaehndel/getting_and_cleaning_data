@@ -1,7 +1,9 @@
 ## This is the Code Book 
 
 # The data source for the following script is:
-# The coursera Getting and Cleaning Course Project zip file 
+# The coursera Getting and Cleaning Course Project zip file
+
+" UCI HAR DATASET "
 
 # The Data Selection is the following:
 
@@ -23,7 +25,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-# The Data Cleaning operations were conducted to condense the the following variables:
+# The Data Cleaning operations were conducted to condense to only the following variables:
 
 # 1. The Mean -mean()
 # 2. The Standard Deviation -std()
