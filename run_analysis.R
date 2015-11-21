@@ -1,4 +1,4 @@
-setwd("C:/Users/kh/Desktop/Coursera/Gettting_And_Collecting_Data/Course_Project/")
+setwd("C:/Users/kh/Desktop/Coursera/")
 
     train = read.csv("UCI HAR Dataset/train/X_train.txt", sep="", header=FALSE)
     train[,562] = read.csv("UCI HAR Dataset/train/Y_train.txt", sep="", header=FALSE)
